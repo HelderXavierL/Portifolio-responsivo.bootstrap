@@ -90,7 +90,7 @@ html, body{
 }
 
 section#inicio{
-    background-image: url(img/R.jpg);
+    background-image: url(img/tennocon_zoom_04.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -229,12 +229,12 @@ i.menu-mobile{
     border-radius: 50%;
 }
 
-.carousel-control-prev{
+.carousel-control-prev {
     margin-left: 8rem;
 }
 
-.carousel-control-next{
-    margin-left: 8rem;
+.carousel-control-next {
+    margin-right: 8rem;
 }
 
 .carousel-indicators{
@@ -246,6 +246,6 @@ margin-bottom: -35px;
         margin-left: 0;
     }
     .carousel-control-next{
-        margin-left: 0;
+        margin-right: 0;
     }
 }
